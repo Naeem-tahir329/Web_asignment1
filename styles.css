@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+    color: blue;
+}
+
+h1 {
+    color: powderblack;
+    font-weight: bold;
+}
+body {
+
+    background-color: powderblue;
+}
+.naeem{
+    width: 300px;
+    height: 300px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-style: ridge;
+}
